@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\mars\\source\\repos\\Quis2Pweb\\Quis2Pweb\\Quis2Pweb.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Quiz2_pweb\\Quis2Pweb\\Quis2Pweb\\Quis2Pweb.csproj",
       "projectName": "Quis2Pweb",
-      "projectPath": "c:\\users\\mars\\source\\repos\\Quis2Pweb\\Quis2Pweb\\Quis2Pweb.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Quiz2_pweb\\Quis2Pweb\\Quis2Pweb\\Quis2Pweb.csproj",
       "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\mars\\source\\repos\\Quis2Pweb\\Quis2Pweb\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Quiz2_pweb\\Quis2Pweb\\Quis2Pweb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

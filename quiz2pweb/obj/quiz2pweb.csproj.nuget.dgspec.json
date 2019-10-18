@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\xampp\\htdocs\\pweb\\Quiz2_pweb\\quiz2pweb\\quiz2pweb.csproj": {}
+  },
+  "projects": {
+    "C:\\xampp\\htdocs\\pweb\\Quiz2_pweb\\quiz2pweb\\quiz2pweb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\pweb\\Quiz2_pweb\\quiz2pweb\\quiz2pweb.csproj",
+        "projectName": "quiz2pweb",
+        "projectPath": "C:\\xampp\\htdocs\\pweb\\Quiz2_pweb\\quiz2pweb\\quiz2pweb.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\pweb\\Quiz2_pweb\\quiz2pweb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
